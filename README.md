@@ -1,2 +1,5 @@
 # Project JERK Public
- ![screenshot](Image/1.PNG)
+
+Follow this instruction to download game.
+![screenshot](Image/1.PNG)
+![screenshot](Image/2.PNG)
